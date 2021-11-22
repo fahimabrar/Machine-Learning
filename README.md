@@ -9,4 +9,6 @@ Clustering is grouping datapoints in a way where simillar data falls into same g
 
 #### K means Clustering
 #### DBSCAN
+#### Hirerchical Clustering
+
 ## Supervised Learning
