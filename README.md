@@ -7,5 +7,6 @@ Principal Component Analysis (PCA) is a set of techniques for dimensionality red
 ### Clustering
 Clustering is grouping datapoints in a way where simillar data falls into same group and different data will be in different group. Clusting is done in unlabelled dataset.
 
-##### K means Clustering
+#### K means Clustering
+#### DBSCAN
 ## Supervised Learning
