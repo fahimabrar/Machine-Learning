@@ -12,3 +12,7 @@ Clustering is grouping datapoints in a way where simillar data falls into same g
 #### Hirerchical Clustering
 
 ## Supervised Learning
+#### Decision Tree
+#### Random Forest
+#### Support Vector Machine
+#### K nearest Neighbour
