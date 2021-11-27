@@ -3,9 +3,7 @@
 This Repository Covers,
 
 ## Unsupervised Learning
-### <a href = "https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/Principal_Component_Analysis.ipynb">Principal Component Analysis</a>
-
-### Clustering
+#### <a href = "https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/Principal_Component_Analysis.ipynb">Principal Component Analysis</a>
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/KMeans_Clustering.ipynb'> K means Clustering</a>
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/DBSCAN.ipynb'> DBSCAN </a>
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/Hirerchical_Clustering.ipynb'> Hirerchical Clustering </a>
