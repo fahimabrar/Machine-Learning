@@ -13,17 +13,17 @@ This Repository Covers,
 
 we tried to predict if a student get placement after his/her study. **The accuracy** for different algorithms are, 
 
-Decision Tree - 0.81
-Random Forest - 0.80
-K Nearest Neighbour - 0.80
-Suppor Vector Classifier - 0.78
+- Decision Tree - 0.81
+- Random Forest - 0.80
+- K Nearest Neighbour - 0.80
+- Suppor Vector Classifier - 0.78
 
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Supervised%20Learning/Regression/Regression_(DecisionTRee%2CRandom_Forest%2CKNN%2CSVM).ipynb'> Regression (Decision Tree, Random Forest, SVM, KNN) </a>
 
 We Tried to predict the salary of the students who got placed. The **Mean Squared Error** for different algorithms are, 
 
-Decision Tree - 0.02
-Random Forest - 0.019
-K Nearest Neighbour - 0.016
-Suppor Vector Classifier - 0.012
+- Decision Tree - 0.02
+- Random Forest - 0.019
+- K Nearest Neighbour - 0.016
+- Suppor Vector Classifier - 0.012
 
