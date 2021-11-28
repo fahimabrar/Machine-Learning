@@ -4,7 +4,16 @@ This Repository Covers,
 
 ## Unsupervised Learning
 #### <a href = "https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/Principal_Component_Analysis.ipynb">Principal Component Analysis</a>
+
+PCA is a technique for dimensionality reduction, where a reduced diemnsional data extract as much as insights possible from the higher dimensional data. After Extracting (2 and 3) Principal component from 30 columns we visualized it. Still the Malignent and Benign Cancer data are distinguishable form each other. 
+
+![](https://raw.githubusercontent.com/fahimabrar/Machine-Learning/main/data/download%20(3).png)
+
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/KMeans_Clustering.ipynb'> K means Clustering</a>
+Clustering country based on unlabelled data 
+
+![](https://github.com/fahimabrar/Machine-Learning/blob/main/data/download%20(2).png?raw=true)
+
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/DBSCAN.ipynb'> DBSCAN </a>
 #### <a href = 'https://github.com/fahimabrar/Machine-Learning/blob/main/Unsupervised%20Learning/Hirerchical_Clustering.ipynb'> Hirerchical Clustering </a>
 
